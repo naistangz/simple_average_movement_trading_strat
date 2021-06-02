@@ -19,3 +19,14 @@ We expect this task to take about 1 hour and you should spend no more than 2 hou
 If you get to 2 hours and haven't finished, don't worry, just send us what you have so far and a note outlining what you were trying to do and how you approached the problem.
 
 Send us your code and a `requirements.txt` file for any modules you need that aren't in the standard library.
+
+~~~~
+
+# Todo in next iteration
+- Plot closing prices 
+- Price table containing date and trade signals columns ONLY
+- Hide api key 
+- Dynamically get list of dates based on an input of date ranges (currently hardcoded)
+- Modify frequency of date label tickets to monthly intervals on graph to make it easier to read
+    e.g mdates.MonthlyLocator(interval=1) display data points for each month 
+- Currency formatter 
